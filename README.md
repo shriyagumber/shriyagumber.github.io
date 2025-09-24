@@ -60,8 +60,8 @@ I am passionate about bridging **science and software engineering**, applying mo
 ## 🎓 Education  
 - **Ph.D. Computational Materials Science** – University of Southern California *(2021 – 2025)*  
 - **M.S. Computer Science** – University of Southern California *(2022 – 2025)*, GPA: **3.94/4.0**  
-- **M.S. Physics** – Indian Institute of Technology, Ropar *(2017 – 2019)*  
-- **B.S. Physics** – St. Stephen’s College, Delhi *(2014 – 2017)*  
+- **Master's in Science** – Indian Institute of Technology, Ropar *(2017 – 2019)*  
+- **Bachelor's in Science** – St. Stephen’s College, Delhi *(2014 – 2017)*  
 
 ---
 
